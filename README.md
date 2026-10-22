@@ -6,7 +6,7 @@
 
 ---
 
-### Hi there! 👋 I'm Izhan Khan, a Java Backend Engineer focused on building reliable, maintainable backend systems.
+### I'm Izhan Khan, a Java Backend Engineer focused on building reliable, maintainable backend systems.
 
 ---
 
